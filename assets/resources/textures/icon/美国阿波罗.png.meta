@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e38c09e9-168a-4161-b1df-bf4aece71f98",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 72,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "美国阿波罗": {
+      "ver": "1.0.4",
+      "uuid": "f9af0115-c326-4c91-a4fe-9c07e3715238",
+      "rawTextureUuid": "e38c09e9-168a-4161-b1df-bf4aece71f98",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 67,
+      "height": 72,
+      "rawWidth": 72,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

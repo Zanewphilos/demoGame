@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5f9dafe7-9735-48f3-b1be-d0339264b2f3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 75,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "地球 ": {
+      "ver": "1.0.4",
+      "uuid": "abd9378d-c238-4a89-b036-1c660d6afdfc",
+      "rawTextureUuid": "5f9dafe7-9735-48f3-b1be-d0339264b2f3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 75,
+      "height": 72,
+      "rawWidth": 75,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

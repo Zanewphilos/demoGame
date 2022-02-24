@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "395a3ffc-3fbe-4d0e-96d3-0fab0d73dfe3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 72,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "长征五号  胖五": {
+      "ver": "1.0.4",
+      "uuid": "5c9b4e04-55d9-4a80-9cc7-bc7e6b42cf2b",
+      "rawTextureUuid": "395a3ffc-3fbe-4d0e-96d3-0fab0d73dfe3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 8,
+      "trimY": 0,
+      "width": 56,
+      "height": 72,
+      "rawWidth": 72,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

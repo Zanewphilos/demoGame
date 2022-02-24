@@ -1,0 +1,36 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "xFadeInAndOut",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.16666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "score/get": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 200
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 180
+            }
+          ],
+          "opacity": []
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "fadeOut",
+      "params": []
+    }
+  ]
+}

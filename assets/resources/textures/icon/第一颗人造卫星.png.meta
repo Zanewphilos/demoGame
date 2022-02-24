@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d5a67a51-0127-4189-984f-bd29c368376b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 82,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "第一颗人造卫星": {
+      "ver": "1.0.4",
+      "uuid": "eaec2938-4b0a-4f91-8c0a-99e3dab27684",
+      "rawTextureUuid": "d5a67a51-0127-4189-984f-bd29c368376b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 82,
+      "height": 72,
+      "rawWidth": 82,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

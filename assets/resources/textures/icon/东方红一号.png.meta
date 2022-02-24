@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "bd8c70cc-31a9-442c-928e-291590cf519c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 83,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "东方红一号": {
+      "ver": "1.0.4",
+      "uuid": "4c5bb201-0609-4dd8-a92d-03e4311aaaa5",
+      "rawTextureUuid": "bd8c70cc-31a9-442c-928e-291590cf519c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 83,
+      "height": 72,
+      "rawWidth": 83,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

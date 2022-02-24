@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c826e206-e1e9-40ef-ba7f-b1e3ed8b2dcf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 88,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "天空实验室": {
+      "ver": "1.0.4",
+      "uuid": "b7decd5a-4b29-4ea7-bb12-74a44c0c8239",
+      "rawTextureUuid": "c826e206-e1e9-40ef-ba7f-b1e3ed8b2dcf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 88,
+      "height": 72,
+      "rawWidth": 88,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

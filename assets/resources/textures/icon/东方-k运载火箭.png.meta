@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d45be0ce-6753-4705-ad34-d4a3d3e849b8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 72,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "东方-k运载火箭": {
+      "ver": "1.0.4",
+      "uuid": "810548a0-f1a6-4e7b-ab26-c7a244742119",
+      "rawTextureUuid": "d45be0ce-6753-4705-ad34-d4a3d3e849b8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 8,
+      "trimY": 0,
+      "width": 56,
+      "height": 72,
+      "rawWidth": 72,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

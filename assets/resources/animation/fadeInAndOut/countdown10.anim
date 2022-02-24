@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "countdown10",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.9833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "countdown/first": {
+        "comps": {},
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -140
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -120
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": -160
+            },
+            {
+              "frame": 0.9833333333333333,
+              "value": -140
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 200
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.9833333333333333,
+              "value": 200
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "fadeOut",
+      "params": []
+    }
+  ]
+}

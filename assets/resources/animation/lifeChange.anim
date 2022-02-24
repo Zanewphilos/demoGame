@@ -1,0 +1,100 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "lifeChange",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5.016666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "life": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 200
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 200
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 3,
+              "value": 0
+            },
+            {
+              "frame": 3.5,
+              "value": 0
+            },
+            {
+              "frame": 4,
+              "value": 200
+            },
+            {
+              "frame": 4.5,
+              "value": 255
+            },
+            {
+              "frame": 5.016666666666667,
+              "value": 0
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "9533a1cd-504d-4530-aea7-98076c9fb576"
+                }
+              },
+              {
+                "frame": 1.5,
+                "value": {
+                  "__uuid__": "4b594a61-8feb-471b-b5cf-b60be3b26f39"
+                }
+              },
+              {
+                "frame": 3.5,
+                "value": {
+                  "__uuid__": "2480ec00-d0e0-4822-b2e6-4228187054ef"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2,
+      "func": "lifeAniPause",
+      "params": []
+    },
+    {
+      "frame": 4,
+      "func": "lifeAniPause",
+      "params": []
+    }
+  ]
+}

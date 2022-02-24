@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "44cc322c-8e17-4332-acd8-7108d698198c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 109,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "中巴地球资源卫星": {
+      "ver": "1.0.4",
+      "uuid": "ac37aa7b-ba9d-4121-934d-fc8e9cc906c8",
+      "rawTextureUuid": "44cc322c-8e17-4332-acd8-7108d698198c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 109,
+      "height": 72,
+      "rawWidth": 109,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
