@@ -1,2 +1,2 @@
 # demoGame
-找不动
+cross platform game using CocosCreator(Find stationary Block)
